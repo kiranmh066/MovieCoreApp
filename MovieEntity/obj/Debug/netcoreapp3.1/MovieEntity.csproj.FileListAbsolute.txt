@@ -1,0 +1,13 @@
+C:\csharp\MovieCoreApp\MovieEntity\bin\Debug\netcoreapp3.1\MovieEntity.deps.json
+C:\csharp\MovieCoreApp\MovieEntity\bin\Debug\netcoreapp3.1\MovieEntity.runtimeconfig.json
+C:\csharp\MovieCoreApp\MovieEntity\bin\Debug\netcoreapp3.1\MovieEntity.runtimeconfig.dev.json
+C:\csharp\MovieCoreApp\MovieEntity\bin\Debug\netcoreapp3.1\MovieEntity.dll
+C:\csharp\MovieCoreApp\MovieEntity\bin\Debug\netcoreapp3.1\MovieEntity.pdb
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.csproj.AssemblyReference.cache
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.AssemblyInfoInputs.cache
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.AssemblyInfo.cs
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.csproj.CoreCompileInputs.cache
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.dll
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.pdb
+C:\csharp\MovieCoreApp\MovieEntity\obj\Debug\netcoreapp3.1\MovieEntity.genruntimeconfig.cache
